@@ -116,3 +116,7 @@ Type a topic to investigate, or 'exit' to quit.
 ## License
 
 This project is provided as-is for educational and personal use.
+---
+## Authors
+- Harsha
+- Rupesh
